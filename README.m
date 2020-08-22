@@ -1,4 +1,4 @@
-# About 
+% About 
 
 % This is an implementation of Djakstras Algorithm to find the best path between 2 points on the map 
 % Open this project using MATLAB and run the commands below to calculate a path.
